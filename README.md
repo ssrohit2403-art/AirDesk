@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="07de1135-cd87-4f9e-8eea-c760c7a719dd" src="https://github.com/user-attachments/assets/925e3e5f-0b71-4009-ac08-bcf284ebfde8" />
 # 👻 GhostDesk
 
 **Control your computer without touching your mouse.**
